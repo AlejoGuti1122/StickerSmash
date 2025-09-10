@@ -27,7 +27,7 @@ export default function AboutScreen() {
           <Text style={styles.developerTitle}>👨‍💻 Desarrollador</Text>
           <Text style={styles.developerName}>Frontend Developer</Text>
           <Text style={styles.developerDesc}>
-            Mecrear experiencias digitales increíbles con React
+            Me divierte crear experiencias digitales increíbles con React
             Native, transformando ideas en aplicaciones que la gente ama usar.
           </Text>
         </View>
